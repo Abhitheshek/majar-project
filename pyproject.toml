@@ -1,0 +1,12 @@
+[project]
+name = "code-assistant"
+version = "0.1.0"
+description = "Interactive terminal coding assistant powered by LangGraph"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

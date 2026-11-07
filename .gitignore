@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+*.backup
+*.db-shm
+*.db-wal
+screenshots/
+code_screenshot.png
+function_screenshot.png
+class_screenshot.png
+checkpoints.db
+checkpoints.db-shm
+checkpoints.db-wal
